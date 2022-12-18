@@ -1,0 +1,8 @@
+{
+  "name": "Local File Explorer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bf4f77b2"
+}
